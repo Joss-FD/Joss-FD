@@ -6,7 +6,7 @@ I'm a <b>Full Stack</b> dev working in Australia.
 I want to spend more time working on personal projects, and learning cool new stuff, but I always end up not doing it. And I forget to put my things on GitHub too :^)
 Hopefully I'll do a better job in 2021.
 
-<h2 align="center">I know these</h2>
+<h2>I know these</h2>
 <p align="center">
     <img alt="Angular" src="https://img.shields.io/badge/-Angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
