@@ -20,10 +20,9 @@ Hopefully I'll do a better job in 2021.
 </p>
 
 <h2> That's me :)</h2>
-- 💻 I’m working on a personal website
-- 🎮 I used to do mostly game development
-- I want to learn React
-- 🎹 I play the piano
-- 🇫🇷/🇮🇪 I'm French and Irish
-- 🍴 I like caramel
-
+* 💻 I’m working on a personal website
+* 🎮 I used to do mostly game development
+* I want to learn React
+* 🎹 I play the piano
+* 🇫🇷/🇮🇪 I'm French and Irish
+* 🍴 I like caramel
