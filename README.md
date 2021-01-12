@@ -22,7 +22,7 @@ Hopefully I'll do a better job in 2021.
 <h2> That's me :)</h2>
 <p>💻 I’m working on a personal website</p>
 <p>🎮 I used to do mostly game development</p>
-<p>I want to learn React</p>
+<p>⚛ I want to learn React</p>
 <p>🎹 I play the piano</p>
 <p>🇫🇷/🇮🇪 I'm French and Irish</p>
 <p>🍴 I like caramel</p>
