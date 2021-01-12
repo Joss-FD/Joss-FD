@@ -1,7 +1,5 @@
 <h3 align="center">Hello, I'm Josselin and I code... sometimes</h3>
-<p style="font-size: 7px" align="center">
-Yeehaw
-</p>
+<p align="center"><sub>Yeehaw</sub></p>
 I'm a <b>Full Stack</b> dev working in Australia.
 I want to spend more time working on personal projects, and learning cool new stuff, but I always end up not doing it. And I forget to put my things on GitHub too :^)
 Hopefully I'll do a better job in 2021.
