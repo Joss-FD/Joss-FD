@@ -18,7 +18,7 @@ Hopefully I'll do a better job in 2021.
 </p>
 
 <p>I read and learn a few things about a lot of other languages/technologies.
-Lately I'm mostly learning how to use Next.js with Typescript, Tailwind! </p>
+Lately I'm mostly learning how to use Next.js with Typescript and Tailwind for styling! (for a personal website) </p>
 
 <h2> That's me :)</h2>
 <p>💻 I’m working on a personal website</p>
