@@ -13,9 +13,12 @@ Hopefully I'll do a better job in 2021.
     <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/-C%23%20-%23007ACF.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
-    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
+<!--     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/> -->
     <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/>
 </p>
+
+<p>I read and learn a few things about a lot of other languages/technologies.
+Lately I'm mostly learning how to use Next.js with Typescript, Tailwind! </p>
 
 <h2> That's me :)</h2>
 <p>💻 I’m working on a personal website</p>
