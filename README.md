@@ -1,7 +1,7 @@
 <h3 align="center">Hello, I'm Josselin and I code... sometimes</h3>
 <p align="center"><sub>Yeehaw</sub></p>
 I'm a <b>Full Stack</b> dev working in Australia.
-I want to spend more time working on personal projects, and learning cool new stuff, but I always forget to put my things on GitHub too :^)
+I want to spend more time working on personal projects, and learning cool new stuff, but I always forget to put my things on GitHub :^)
 My computer died recently and I'm crying seeing the current prices of computer parts 🥲 I'm running on a very old laptop as a backup... it's slow.
 Waiting for a new (good) computer so I can actually code at home again :)
 
