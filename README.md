@@ -1,9 +1,8 @@
 <h3 align="center">Hello, I'm Josselin and I code... sometimes</h3>
 <p align="center"><sub>Yeehaw</sub></p>
-I'm a <b>Full Stack</b> dev working in Australia.
-I want to spend more time working on personal projects, and learning cool new stuff, but I always forget to put my things on GitHub :^)
-My computer died recently and I'm crying seeing the current prices of computer parts 🥲 I'm running on a very old laptop as a backup... it's slow.
-Waiting for a new (good) computer so I can actually code at home again :)
+I'm a <b>Software developer</b> working in Australia, and I code random projects in my free time.
+I want to spend more time working on personal projects, and learning cool new stuff, but I rarely remember to put my things on GitHub :^)
+
 
 <h2>I know these</h2>
 <p align="center">
@@ -17,12 +16,14 @@ Waiting for a new (good) computer so I can actually code at home again :)
 <!--     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/> -->
     <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/>
 </p>
+<p>
+...but I also mess around with many more. 
+    
+I read and learn things about a lot of other languages/technologies. I like learning about many things, even technologies I don't need and use (yet), but also          things that are not just about development (e-sports, hardware stuff, internet privacy, ...)</p>
 
-<p>I read and learn a few things about a lot of other languages/technologies. My interest goes further than just development, lately I have taken an interest into hardware specific concepts. I go down many rabit holes when reading about tech stuff, and it's always interesting</p>
-
-<h2> That's me :)</h2>
-<p>💻 I’m working on a personal website</p>
-<p>🎮 I used to do game development</p>
+<h2> About me</h2>
+<p>🇫🇷/🇮🇪 French/Irish living in Australia 🇦🇺</p>
+<p>🌍 I can recognise and name about 150 flags (working on getting 190+)</p>
+<p>💻 I don't believe in a "best programming language"</p>
+<p>🎮 I like doing game development</p>
 <p>🎹 I play the piano</p>
-<p>🇫🇷/🇮🇪 French/Irish origins</p>
-<p>🍴 I love caramel</p>
