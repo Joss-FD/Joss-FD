@@ -13,9 +13,9 @@ I want to spend more time working on personal projects, and learning cool new st
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/-Python-F9A03C?style=flat-square&logo=python&logoColor=white"/>
  
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
-<!--     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/> -->
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/>
+   <!--   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
+   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/> -->
 </p>
 <p>
 ...but I also mess around with many more. 
