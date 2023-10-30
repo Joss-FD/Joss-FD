@@ -20,11 +20,11 @@ I want to spend more time working on personal projects, and learning cool new st
 <p>
 ...but I also mess around with many more. 
     
-I read and learn things about a lot of other languages/technologies. I like learning about many things, even technologies I don't need and use (yet), but also          things that are not just about development (e-sports, hardware stuff, internet and online privacy, ...)</p>
+I read and learn things about a lot of other languages/technologies. I like learning about many technologies, even ones I don't need or use (yet), but I also take interest in things are not just about development (e-sports, hardware concepts, internet and online privacy, ...)</p>
 
 <h2> About me</h2>
-<p>🇫🇷/🇮🇪 French/Irish living in Australia 🇦🇺</p>
-<p>🌍 I can recognise and name about 150 flags (working on getting 190+)</p>
+<p>🇫🇷/🇮🇪 French/Irish living in Australia 🇦🇺 (recently became a citizen there too!)</p>
+<p>🌍 I can recognise and name about 150 flags</p>
 <p>💻 I don't believe in a "best programming language"</p>
 <p>🎮 I like games </p>
 <p>🎹 I play the piano</p>
