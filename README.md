@@ -1,11 +1,8 @@
-<h3 align="center">Hello, I'm Josselin and I code... sometimes</h3>
-<p align="center"><sub>Yeehaw</sub></p>
-I'm a <b>Software developer</b> working in Australia, and I code random projects in my free time.
-I want to spend more time working on personal projects, and learning cool new stuff, but I rarely remember to put my things on GitHub :^)
+<p>Name: Joss</p>
+<p>Location: Melbourne, Australia</p>
+<p>🇫🇷/🇮🇪/🇦🇺</p>
 
-
-<h2>I know these</h2>
-<p align="center">
+<p>
     <img alt="C#" src="https://img.shields.io/badge/-C%23%20-%23007ACF.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -17,14 +14,5 @@ I want to spend more time working on personal projects, and learning cool new st
    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>
     <img alt="Unity" src="https://img.shields.io/badge/-Unity%20-%23000000.svg?&style=flat-square&logo=unity&logoColor=white"/> -->
 </p>
-<p>
-...but I also mess around with many more. 
-    
-I read and learn things about a lot of other languages/technologies. I like learning about many technologies, even ones I don't need or use (yet), but I also take interest in things are not just about development (e-sports, hardware concepts, internet and online privacy, ...)</p>
 
-<h2> About me</h2>
-<p>🇫🇷/🇮🇪 French/Irish living in Australia 🇦🇺 (recently became a citizen there too!)</p>
-<p>🌍 I can recognise and name about 150 flags</p>
-<p>💻 I don't believe in a "best programming language"</p>
-<p>🎮 I like games </p>
-<p>🎹 I play the piano</p>
+
